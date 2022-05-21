@@ -1,4 +1,5 @@
 DROP TABLE clientes;
+
 CREATE TABLE clientes (
     idcliente INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
     nombre VARCHAR(45) NOT NULL,
