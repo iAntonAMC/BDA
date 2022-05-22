@@ -1,0 +1,101 @@
+id_producto,producto,categoria,precio_unitario,existencias,unidad
+1,ProductoC,congelados,361,57,caja
+2,ProductoE,blancos,943,94,caja
+3,ProductoD,vinos y licores,521,4,pieza
+4,ProductoB,vinos y licores,83,54,caja
+5,ProductoB,vinos y licores,476,50,caja
+6,ProductoE,congelados,504,67,pieza
+7,ProductoB,blancos,387,65,pieza
+8,ProductoB,congelados,467,44,caja
+9,ProductoC,congelados,292,4,caja
+10,ProductoB,blancos,282,3,pieza
+11,ProductoE,blancos,62,52,caja
+12,ProductoC,congelados,350,71,caja
+13,ProductoC,congelados,985,22,pieza
+14,ProductoA,blancos,99,21,pieza
+15,ProductoA,vinos y licores,723,6,pieza
+16,ProductoA,blancos,696,43,caja
+17,ProductoB,blancos,858,20,pieza
+18,ProductoD,blancos,606,42,pieza
+19,ProductoB,vinos y licores,707,96,caja
+20,ProductoD,congelados,262,63,pieza
+21,ProductoE,vinos y licores,138,9,caja
+22,ProductoB,vinos y licores,518,13,pieza
+23,ProductoA,vinos y licores,663,54,caja
+24,ProductoC,vinos y licores,775,26,pieza
+25,ProductoB,blancos,182,4,pieza
+26,ProductoD,blancos,633,80,pieza
+27,ProductoB,vinos y licores,504,60,caja
+28,ProductoA,vinos y licores,546,12,pieza
+29,ProductoC,congelados,270,70,caja
+30,ProductoB,congelados,955,5,pieza
+31,ProductoE,vinos y licores,614,0,caja
+32,ProductoD,vinos y licores,773,65,pieza
+33,ProductoE,blancos,722,79,caja
+34,ProductoD,vinos y licores,870,29,pieza
+35,ProductoC,vinos y licores,964,0,caja
+36,ProductoE,congelados,851,6,caja
+37,ProductoC,vinos y licores,468,91,pieza
+38,ProductoC,congelados,520,34,pieza
+39,ProductoE,vinos y licores,636,58,pieza
+40,ProductoD,vinos y licores,377,64,pieza
+41,ProductoE,blancos,380,1,pieza
+42,ProductoD,blancos,842,51,pieza
+43,ProductoD,blancos,205,15,caja
+44,ProductoC,vinos y licores,59,19,pieza
+45,ProductoA,congelados,182,98,pieza
+46,ProductoE,congelados,878,2,caja
+47,ProductoD,blancos,242,99,caja
+48,ProductoD,blancos,981,14,caja
+49,ProductoB,blancos,669,43,pieza
+50,ProductoB,blancos,374,34,pieza
+51,ProductoD,blancos,488,12,caja
+52,ProductoC,vinos y licores,475,35,pieza
+53,ProductoD,blancos,588,17,caja
+54,ProductoE,congelados,510,29,pieza
+55,ProductoB,congelados,713,80,pieza
+56,ProductoC,vinos y licores,641,26,caja
+57,ProductoD,congelados,999,70,caja
+58,ProductoA,vinos y licores,273,20,pieza
+59,ProductoD,blancos,868,72,pieza
+60,ProductoE,vinos y licores,861,28,pieza
+61,ProductoB,vinos y licores,238,29,caja
+62,ProductoB,vinos y licores,80,10,pieza
+63,ProductoE,vinos y licores,860,76,pieza
+64,ProductoA,vinos y licores,491,88,caja
+65,ProductoD,vinos y licores,666,42,pieza
+66,ProductoE,blancos,782,32,pieza
+67,ProductoD,vinos y licores,842,53,pieza
+68,ProductoD,vinos y licores,221,80,pieza
+69,ProductoE,blancos,727,92,pieza
+70,ProductoC,vinos y licores,892,1,caja
+71,ProductoC,blancos,924,97,caja
+72,ProductoB,blancos,835,29,pieza
+73,ProductoD,vinos y licores,940,99,caja
+74,ProductoE,congelados,725,51,caja
+75,ProductoC,blancos,875,38,caja
+76,ProductoE,blancos,848,70,pieza
+77,ProductoD,vinos y licores,530,13,caja
+78,ProductoD,vinos y licores,25,45,caja
+79,ProductoB,vinos y licores,233,70,pieza
+80,ProductoC,vinos y licores,750,98,pieza
+81,ProductoB,vinos y licores,785,39,pieza
+82,ProductoD,blancos,98,56,caja
+83,ProductoC,vinos y licores,315,90,pieza
+84,ProductoB,blancos,488,51,caja
+85,ProductoE,vinos y licores,671,19,caja
+86,ProductoB,vinos y licores,980,82,caja
+87,ProductoA,blancos,883,56,caja
+88,ProductoD,vinos y licores,862,70,pieza
+89,ProductoE,vinos y licores,167,28,pieza
+90,ProductoD,congelados,984,29,pieza
+91,ProductoA,vinos y licores,126,42,pieza
+92,ProductoA,blancos,485,76,caja
+93,ProductoB,vinos y licores,761,80,caja
+94,ProductoB,congelados,395,77,caja
+95,ProductoC,congelados,856,63,caja
+96,ProductoE,vinos y licores,726,11,caja
+97,ProductoE,congelados,250,25,pieza
+98,ProductoC,congelados,767,2,pieza
+99,ProductoE,blancos,602,43,pieza
+100,ProductoD,vinos y licores,661,55,caja

@@ -1,0 +1,2 @@
+SELECT idproducto AS "ID", producto AS "Producto", categoria AS "Categoría", precio_unitario AS "Precio", existencias AS "Piezas en Stock" FROM productos2
+WHERE precio_unitario > 500 AND existencias > 50;
