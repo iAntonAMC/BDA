@@ -1,6 +1,6 @@
 .mode csv
 
-.import ejercicio18may/productos_rand.csv newpro
+.import ejercicio_mayo18/productos_rand.csv newpro
 
 .mode column
 
