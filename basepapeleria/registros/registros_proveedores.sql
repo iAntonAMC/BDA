@@ -1,1 +1,0 @@
-INSERT INTO proveedores VALUES (NULL, 'Libretas', 'Escribe', 'escribe@email.com');
